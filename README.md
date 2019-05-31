@@ -1,0 +1,1 @@
+# viewdoc-config-test
