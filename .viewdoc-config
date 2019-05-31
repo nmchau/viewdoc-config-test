@@ -1,0 +1,6 @@
+title: 'Config Example'
+theme:
+  base: 'dark'
+  options:
+    backgroundColor: '#00696d'
+rootPath: '/doc'
